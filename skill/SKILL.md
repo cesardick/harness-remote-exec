@@ -1,6 +1,6 @@
 ---
 name: remote-session
-description: Continua a conversa atual em uma sessão remota pelo celular (Telegram). Use quando o usuário disser "vamos continuar essa conversa em uma sessão remota" ou similar.
+description: Continua a conversa atual em uma sessão remota pelo celular (Telegram). Use quando o usuário disser "vamos continuar essa conversa em uma sessão remota", "vamos continuar no Telegram", "continuar pelo celular", "modo remoto" ou similar.
 ---
 
 # Sessão remota
