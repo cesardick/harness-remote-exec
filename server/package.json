@@ -1,0 +1,19 @@
+{
+  "name": "codex-remote-mcp",
+  "version": "0.1.0",
+  "description": "MCP stdio que liga o Codex local a um chat do Telegram (sessão remota via polling)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "chat-id": "node get-chat-id.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "zod": "^4.6.7"
+  },
+  "private": true
+}
